@@ -12,3 +12,4 @@ D:\Univer\6sem\IS\Lab04\Lab04\obj\Debug\net8.0\refint\Lab04.dll
 D:\Univer\6sem\IS\Lab04\Lab04\obj\Debug\net8.0\Lab04.pdb
 D:\Univer\6sem\IS\Lab04\Lab04\obj\Debug\net8.0\Lab04.genruntimeconfig.cache
 D:\Univer\6sem\IS\Lab04\Lab04\obj\Debug\net8.0\ref\Lab04.dll
+D:\Univer\6sem\IS\Lab04\Lab04\obj\Debug\net8.0\Lab04.sourcelink.json
