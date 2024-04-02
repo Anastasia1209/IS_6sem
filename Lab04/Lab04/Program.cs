@@ -29,6 +29,11 @@ namespace Lab04
             Dictionary<char, int> encrFreq = Encryption.CountFrequancies(encrLetters);
             Dictionary<char, int> decrFreq = Encryption.CountFrequancies(decrLetters);
 
+            string encrLetters2 = Encryption.GetLetters(encrText2);
+            Dictionary<char, int> encrFreq2 = Encryption.CountFrequancies(encrLetters2);
+
+
+
 
             Console.WriteLine("Исходный текст: \n" + text);
             Console.WriteLine("____________________________________________________________________");
@@ -57,6 +62,10 @@ namespace Lab04
             string encrTrisText = Encryption.EncryptTrithemius(text2);
             Console.WriteLine("\nЗашифрованный текст: \n" + encrTrisText);
             Encryption.WriteToFile(textWrite2, encrTrisText);
+            Console.WriteLine("\nЧастота появления символов");
+
+            var dictEncr2 = Encryption.GetDictionarySymb(encrFreq2, encrLetters2);
+            Encryption.ShowDictionary(dictEncr2);
 
             Console.WriteLine("____________________________________________________________________");
 
