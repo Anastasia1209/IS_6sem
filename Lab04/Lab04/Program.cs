@@ -4,8 +4,6 @@ using Lab04;
 
 namespace Lab04
 {
-
-
     class Program
     {
         static void Main(string[] args)
