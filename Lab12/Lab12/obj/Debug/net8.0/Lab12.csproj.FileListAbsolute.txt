@@ -1,0 +1,15 @@
+D:\Univer\6sem\IS\Lab12\Lab12\bin\Debug\net8.0\Lab12.exe
+D:\Univer\6sem\IS\Lab12\Lab12\bin\Debug\net8.0\Lab12.deps.json
+D:\Univer\6sem\IS\Lab12\Lab12\bin\Debug\net8.0\Lab12.runtimeconfig.json
+D:\Univer\6sem\IS\Lab12\Lab12\bin\Debug\net8.0\Lab12.dll
+D:\Univer\6sem\IS\Lab12\Lab12\bin\Debug\net8.0\Lab12.pdb
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfoInputs.cache
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfo.cs
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.CoreCompileInputs.cache
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.sourcelink.json
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.dll
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\refint\Lab12.dll
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.pdb
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\Lab12.genruntimeconfig.cache
+D:\Univer\6sem\IS\Lab12\Lab12\obj\Debug\net8.0\ref\Lab12.dll
