@@ -1,0 +1,8 @@
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.csproj.AssemblyReference.cache
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.Form1.resources
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.Preloader.resources
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.Properties.Resources.resources
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.Sword.resources
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.UserControl1.resources
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.csproj.GenerateResource.cache
+F:\BGTU\Course3\Sem2\Secur\Lab15\sword_2012.11.08\sword\obj\Debug\sword.csproj.CoreCompileInputs.cache

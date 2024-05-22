@@ -22,14 +22,11 @@ namespace Lab08
                 int j = 0;
                 for (int i = 0; i < 256; i++)
                 {
-                    j = (j + S[i] + key[i % key.Length]) % 256; // j = (j + Si + Ki) mod 256;
-                    S.Swap(i, j); // меняем местами        
+                    j = (j + S[i] + key[i % key.Length]) % 256; 
+                    S.Swap(i, j);      
                 }
             }
 
-            // в параметрах передается массив исходных байтов и их размер
-            // для каждого байта массива исходных данных запрашивает байт ключа
-            // и объединяет их при помощи xor (^)
             public byte[] Encode(byte[] dataB, int size)
             {
                 byte[] data = dataB.Take(size).ToArray();
@@ -42,10 +39,6 @@ namespace Lab08
                 return cipher;
             }
 
-
-            // При каждом вызове отдает следующий байт ключевого потока,
-            // который мы будем объединять xor'ом с байтом исходных данных
-            // Генератор ПСП
             private byte ItemKey()
             {
                 x = (x + 1) % 256;

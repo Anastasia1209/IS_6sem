@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWPGK863YdVXKlboBul9GMbIv7yJddQ8s4JZOQmh9JsVOpyLP39XApzW0ppOMEz+9Wsns/4vv1cWth7hmti9KA==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\6sem\\IS\\Lab_15\\Lab15\\Lab15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasty\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

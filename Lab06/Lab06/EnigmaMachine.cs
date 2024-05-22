@@ -9,7 +9,6 @@ namespace Lab06
     public class EnigmaMachine
     {
         private static readonly string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
         private static readonly string rotor3 = "BDFHJLCPRTXVZNYEIWGAKMUSQO";
         private static readonly string rotor7 = "NZJHGRCXMYSWBOUFAIVLPEKQDT";
         private static readonly string rotor1 = "EKMFLGDQVZNTOWYHXUSPAIBRCJ";

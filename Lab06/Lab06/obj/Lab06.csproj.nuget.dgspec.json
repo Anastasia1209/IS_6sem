@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univer\\6sem\\PIS\\Lab06\\Lab06\\Lab06.csproj": {}
+    "D:\\Univer\\6sem\\IS\\Lab06\\Lab06\\Lab06.csproj": {}
   },
   "projects": {
-    "D:\\Univer\\6sem\\PIS\\Lab06\\Lab06\\Lab06.csproj": {
+    "D:\\Univer\\6sem\\IS\\Lab06\\Lab06\\Lab06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univer\\6sem\\PIS\\Lab06\\Lab06\\Lab06.csproj",
+        "projectUniqueName": "D:\\Univer\\6sem\\IS\\Lab06\\Lab06\\Lab06.csproj",
         "projectName": "Lab06",
-        "projectPath": "D:\\Univer\\6sem\\PIS\\Lab06\\Lab06\\Lab06.csproj",
+        "projectPath": "D:\\Univer\\6sem\\IS\\Lab06\\Lab06\\Lab06.csproj",
         "packagesPath": "C:\\Users\\nasty\\.nuget\\packages\\",
-        "outputPath": "D:\\Univer\\6sem\\PIS\\Lab06\\Lab06\\obj\\",
+        "outputPath": "D:\\Univer\\6sem\\IS\\Lab06\\Lab06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasty\\AppData\\Roaming\\NuGet\\NuGet.Config",

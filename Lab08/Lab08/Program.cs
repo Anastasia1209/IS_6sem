@@ -9,8 +9,6 @@ namespace Lab08
         public static readonly int x = 5;
         public static readonly int length = 13;
 
-        // ПСП генератор на основе квадратичных вычетов
-        // Вычисляет каждое число последовательности отдельно по формуле квадратичных вычетов
         public static int BBSnext(int previous, int index)
         {
             int resultForSequence = (previous * previous) % n; // x_t= (x_(t-1))^2 mod n, вычисляемое значение генератора = (предыдущий элемент псп)^2 modn
