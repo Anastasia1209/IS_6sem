@@ -23,6 +23,6 @@ string elapsedTime = string.Format("{0:00}:{1:00}:{2:00}.{3:00}",
     ts.Seconds,
     ts.Milliseconds / 10);
 
-Console.WriteLine($"\n~Результат SHA256: {Convert.ToBase64String(hash2)}");
-Console.WriteLine($"\n~Результат MD5: {Convert.ToBase64String(hash)}");
-Console.WriteLine($"\n~Затраченное время: {elapsedTime}");
+Console.WriteLine($"\nРезультат SHA256: {Convert.ToBase64String(hash2)}");
+Console.WriteLine($"\nРезультат MD5: {Convert.ToBase64String(hash)}");
+Console.WriteLine($"\nЗатраченное время: {elapsedTime}");

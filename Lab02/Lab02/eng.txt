@@ -1,5 +1,0 @@
-Signals, like messages, can be continuous or discrete. Information parameter of a continuous signal with
-over time can take on any instantaneous values
-within certain limits. The continuous signal is often called
-analog, and channels and devices operating on the basis
-This type of signal is analog.

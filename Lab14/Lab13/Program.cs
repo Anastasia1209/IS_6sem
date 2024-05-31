@@ -6,12 +6,12 @@ namespace KMZI_Lab14
     {
         static void Main(string[] args)
         {
-            var fileNameOpen = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\sample.bmp";
-            var fileNameEncryptByRows = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\ecnrypted_by_rows.bmp";
-            var fileNameEncryptByColumns = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\ecnrypted_by_columns.bmp";
-            var fileNameMatrixSample = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\matrix_sample.bmp";
-            var fileNameMatrixEncryptByRows = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\matrix_encrypt_rows.bmp";
-            var fileNameMatrixEncryptByColumns = @"D:\Univer\6sem\IS\KMZI_Lab14\Lab13\Images\matrix_encrypt_columns.bmp";
+            var fileNameOpen = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\sample.bmp";
+            var fileNameEncryptByRows = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\ecnrypted_by_rows.bmp";
+            var fileNameEncryptByColumns = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\ecnrypted_by_columns.bmp";
+            var fileNameMatrixSample = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\matrix_sample.bmp";
+            var fileNameMatrixEncryptByRows = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\matrix_encrypt_rows.bmp";
+            var fileNameMatrixEncryptByColumns = @"D:\Univer\6sem\IS\Lab14\Lab13\Images\matrix_encrypt_columns.bmp";
 
             var openTextByRows = "GolodokAnastasiya";
             var openTextByColumns = "Golodok";

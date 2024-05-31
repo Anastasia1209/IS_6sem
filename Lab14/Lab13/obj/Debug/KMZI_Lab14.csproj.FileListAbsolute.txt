@@ -5,3 +5,10 @@ D:\Univer\6sem\IS\KMZI_Lab14\Lab13\obj\Debug\KMZI_Lab14.csproj.AssemblyReference
 D:\Univer\6sem\IS\KMZI_Lab14\Lab13\obj\Debug\KMZI_Lab14.csproj.CoreCompileInputs.cache
 D:\Univer\6sem\IS\KMZI_Lab14\Lab13\obj\Debug\KMZI_Lab14.exe
 D:\Univer\6sem\IS\KMZI_Lab14\Lab13\obj\Debug\KMZI_Lab14.pdb
+D:\Univer\6sem\IS\Lab14\Lab13\bin\Debug\KMZI_Lab14.exe.config
+D:\Univer\6sem\IS\Lab14\Lab13\bin\Debug\KMZI_Lab14.exe
+D:\Univer\6sem\IS\Lab14\Lab13\bin\Debug\KMZI_Lab14.pdb
+D:\Univer\6sem\IS\Lab14\Lab13\obj\Debug\KMZI_Lab14.csproj.AssemblyReference.cache
+D:\Univer\6sem\IS\Lab14\Lab13\obj\Debug\KMZI_Lab14.csproj.CoreCompileInputs.cache
+D:\Univer\6sem\IS\Lab14\Lab13\obj\Debug\KMZI_Lab14.exe
+D:\Univer\6sem\IS\Lab14\Lab13\obj\Debug\KMZI_Lab14.pdb
